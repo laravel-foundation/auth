@@ -1,6 +1,6 @@
 ## Laravel Foundation Auth Component
 
-This is an extraction of [https://github.com/laravel/framework/tree/v5.7.6/src/Illuminate/Foundation/Auth/](https://github.com/laravel/framework/tree/v5.7.6/src/Illuminate/Foundation/Auth/)
+This is an extraction of [https://github.com/laravel/framework/tree/v5.7.7/src/Illuminate/Foundation/Auth/](https://github.com/laravel/framework/tree/v5.7.7/src/Illuminate/Foundation/Auth/)
 
 ### Installation
 
